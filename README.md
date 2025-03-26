@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander
-- 👀 I’m interested in Backend
+- 👀 I’m interested in Web/Backend
 - 🌱 I’m currently learning Golang
 - Stack: MySql,PostgreSql,Docker,REST,Redis
 - Also love music💞
